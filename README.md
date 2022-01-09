@@ -38,4 +38,7 @@ Here are the Employees Metamask accounts Pre and Post payment
 ![paid](images/employee_one.png)
 ![paid](images/employee_two.png)
 ![paid](images/employee_three.png)
+
+Employees final balances
+
 ![paid](images/employees_paid.png)
