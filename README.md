@@ -42,3 +42,9 @@ Here are the Employees Metamask accounts Pre and Post payment
 Employees final balances
 
 ![paid](images/employees_paid.png)
+
+
+
+### Level Two: The `TieredProfitSplitter` Contract
+* **Level Two** is a `TieredProfitSplitter` that will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
+
